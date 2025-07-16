@@ -1,7 +1,6 @@
 import java.lang.*;
-import java.util.*;
 
-public class Solution1 {
+public class Basics_Solution1 {
     public static void main(String[] args) {
         System.out.println("A");
         System.out.println("B");
