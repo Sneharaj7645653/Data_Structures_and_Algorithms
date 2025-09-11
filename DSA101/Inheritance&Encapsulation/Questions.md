@@ -1,10 +1,6 @@
 # OOP Practice Problems
 
 ## Q1. Rectangle Class
-**Solved**  
-*feature icon*  
-*Using hints except Complete Solution is Penalty free now*  
-*Use Hint*
 
 ### Problem Description
 Given N rectangles with their length and breadth in array A and B.
@@ -59,10 +55,6 @@ The area of rectangles are [8, 25, 3, 36, 4]. Of them only 2nd and 4th are squar
 ---
 
 ## Q2. Class Fraction
-**Solved**  
-*feature icon*  
-*Using hints except Complete Solution is Penalty free now*  
-*Use Hint*
 
 ### Problem Description
 Construct a class `Fraction` which stores a fraction. It should contain:
@@ -85,10 +77,6 @@ You may define any properties in the class as you see appropriate.
 ---
 
 ## Q3. Class Complex Number
-**Solved**  
-*feature icon*  
-*Using hints except Complete Solution is Penalty free now*  
-*Use Hint*
 
 ### Problem Description
 Construct a class called `ComplexNumber` which stores two properties:
