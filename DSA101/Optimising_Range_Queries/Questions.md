@@ -2,8 +2,6 @@
 
 ## Q1. Equilibrium index of an array
 
-**Solved**\
-*Using hints except Complete Solution is Penalty free now*
 
 ### Problem Description
 
@@ -83,8 +81,6 @@ Thus, there is no such index.
 
 ## Q2. Range Sum Query
 
-**Solved**\
-*Using hints except Complete Solution is Penalty free now*
 
 ### Problem Description
 
@@ -145,8 +141,7 @@ The sum of all elements of `A[1 ... 2] = 2 + 2 = 4`.
 
 ## Q3. Sum of All Subarrays
 
-**Solved**\
-*Using hints except Complete Solution is Penalty free now*
+
 
 ### Problem Description
 
@@ -207,8 +202,7 @@ Their sums are: `2 + 1 + 3 + 3 + 4 + 6 = 19`.
 
 ## Q4. Leaders in an array
 
-**Solved**\
-*Using hints except Complete Solution is Penalty free now*
+
 
 ### Problem Description
 
